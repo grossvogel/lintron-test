@@ -3,5 +3,5 @@ function whatever(a) {
 }
 
 function othercode(b) {
-  return 'boss';
+  return 'boss' + 'whatever';
 }
