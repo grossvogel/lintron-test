@@ -1,3 +1,5 @@
-if (checkTheCondition())
+if (checkTheCondition()) {
   doTheThing();
+  doTheSecondThing();
+}
 

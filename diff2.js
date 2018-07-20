@@ -1,4 +1,5 @@
 if (checkTheCondition()) {
   doTheThing();
+  doTheSecondThing();
 }
 
